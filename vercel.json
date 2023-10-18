@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://wisdom733j.wixsite.com/tnbhvacllc/en/$1",
+      "permanent": true
+    }
+  ]
+}
